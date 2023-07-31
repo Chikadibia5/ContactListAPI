@@ -1,0 +1,51 @@
+{
+	"id": "d470eed7-30a8-4ab4-92f2-33fd423cddbc",
+	"name": "Contact List",
+	"values": [
+		{
+			"key": "First Name",
+			"value": "Oyoh",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Last Name",
+			"value": "Chikadibia",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "contactid",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "MUSIC",
+			"value": "Bass",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "State Province",
+			"value": "London",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "City",
+			"value": "Everton",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-07-30T19:19:38.272Z",
+	"_postman_exported_using": "Postman/10.16.5-230720-1557"
+}
